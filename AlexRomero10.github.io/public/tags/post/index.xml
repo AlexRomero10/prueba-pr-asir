@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post on Pagina Web Alejandro Romero</title>
+    <link>/tags/post/</link>
+    <description>Recent content in post on Pagina Web Alejandro Romero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Oct 2024 10:30:00 +0200</lastBuildDate><atom:link href="/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto</title>
+      <link>/posts/contacto/</link>
+      <pubDate>Thu, 03 Oct 2024 10:30:00 +0200</pubDate>
+      
+      <guid>/posts/contacto/</guid>
+      <description>Si quieres contactar conmigo, puedes hacerlo a traves de mi correo electronico.
+Redes Sociales Puedes seguirme en mis redes sociales:
+Twitter Instagram </description>
+    </item>
+    
+    <item>
+      <title>Inicio</title>
+      <link>/posts/inicio/</link>
+      <pubDate>Thu, 03 Oct 2024 10:30:00 +0200</pubDate>
+      
+      <guid>/posts/inicio/</guid>
+      <description>Bienvenidos Bienvenidos a mi pagina web. En mi pagina web puedes encontrar:
+Home Inicio Ejemplos de Markdown Contacto </description>
+    </item>
+    
+    <item>
+      <title>IWEB_Ale</title>
+      <link>/posts/web_ale/</link>
+      <pubDate>Thu, 03 Oct 2024 10:30:00 +0200</pubDate>
+      
+      <guid>/posts/web_ale/</guid>
+      <description>Implantacion de aplicaciones web Alejandro Romero Tortosa Este es un parrafo de ejemplo con algunas formateaciones de texto:
+hola como estamos def hola_mundo(): print(&amp;#34;Hola, mundo!&amp;#34;) Lista ordenada 1.Primer articulo 2.Segundo articulo 3.Tercero articulo
+Lista desordenada -Primero articulo desordenado -Segundo articulo desordenado -Tercero articulo desordenado
+Puede que tambien se usen tablas
+Nombre Edad Cancion favorita Jose 30 Mi señor de la oracion Pablo 20 Kemba Walter Gonzalo 20 A 300 </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,122 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Pagina Web Alejandro Romero</title>
+    <description></description>
+    <link></link>
+    
+    <language>en</language>
+    <copyright>Copyright 2024, Calvin Tran</copyright>
+    <lastBuildDate>Thu, 03 Oct 2024 10:30:00 +0200</lastBuildDate>
+    <generator>Hugo - gohugo.io</generator>
+    <docs>http://cyber.harvard.edu/rss/rss.html</docs>
+    <atom:link href="/atom.xml" rel="self" type="application/atom+xml"/>
+    
+    
+    <item>
+      <title>Contacto</title>
+      <link>/posts/contacto/</link>
+      <description>&lt;p&gt;Si quieres contactar conmigo, puedes hacerlo a traves de mi &lt;a href=&#34;mailto:aletromp00@gmail.com&#34;&gt;correo electronico&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;redes-sociales&#34;&gt;Redes Sociales&lt;/h3&gt;
+&lt;p&gt;Puedes seguirme en mis redes sociales:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://x.com/alepercu6787&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://instagram.com/alepercu6787&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img
+  src=&#34;/debian_12.jpeg&#34;
+  alt=&#34;Imagen&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+&lt;/p&gt;
+</description>
+      <author></author>
+      <guid>/posts/contacto/</guid>
+      <pubDate>Thu, 03 Oct 2024 10:30:00 +0200</pubDate>
+    </item>
+    
+    <item>
+      <title>Inicio</title>
+      <link>/posts/inicio/</link>
+      <description>&lt;h1 id=&#34;bienvenidos&#34;&gt;Bienvenidos&lt;/h1&gt;
+&lt;p&gt;Bienvenidos a mi pagina web. En mi pagina web puedes encontrar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/inicio/&#34;&gt;Inicio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/web_ale&#34;&gt;Ejemplos de Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/contacto&#34;&gt;Contacto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img
+  src=&#34;/images.jpeg&#34;
+  alt=&#34;Imagen&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+&lt;/p&gt;
+</description>
+      <author></author>
+      <guid>/posts/inicio/</guid>
+      <pubDate>Thu, 03 Oct 2024 10:30:00 +0200</pubDate>
+    </item>
+    
+    <item>
+      <title>IWEB_Ale</title>
+      <link>/posts/web_ale/</link>
+      <description>&lt;h2 id=&#34;implantacion-de-aplicaciones-web&#34;&gt;Implantacion de aplicaciones web&lt;/h2&gt;
+&lt;h3 id=&#34;alejandro-romero-tortosa&#34;&gt;Alejandro Romero Tortosa&lt;/h3&gt;
+&lt;p&gt;Este es un parrafo de ejemplo con algunas formateaciones de texto:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;hola&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;como&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;estamos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hola_mundo&lt;/span&gt;():
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hola, mundo!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;lista-ordenada&#34;&gt;Lista ordenada&lt;/h3&gt;
+&lt;p&gt;1.Primer articulo
+2.Segundo articulo
+3.Tercero articulo&lt;/p&gt;
+&lt;h3 id=&#34;lista-desordenada&#34;&gt;Lista desordenada&lt;/h3&gt;
+&lt;p&gt;-Primero articulo desordenado
+-Segundo articulo desordenado
+-Tercero articulo desordenado&lt;/p&gt;
+&lt;p&gt;Puede que tambien se usen tablas&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Nombre&lt;/th&gt;
+&lt;th&gt;Edad&lt;/th&gt;
+&lt;th&gt;Cancion favorita&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Jose&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;Mi señor de la oracion&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pablo&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;Kemba Walter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Gonzalo&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;A 300&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+      <author></author>
+      <guid>/posts/web_ale/</guid>
+      <pubDate>Thu, 03 Oct 2024 10:30:00 +0200</pubDate>
+    </item>
+    
+  </channel>
+</rss>
