@@ -1,0 +1,27 @@
+title = 'Pagina Web Alejandro Romero'
+
+theme = 'maverick'
+
+
+
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    url = "/posts/"
+    pre = ""
+    post = ""
+    name = "Posts"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+    
+  [[menu.main]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/AlexRomero10"
+    weight = 3
