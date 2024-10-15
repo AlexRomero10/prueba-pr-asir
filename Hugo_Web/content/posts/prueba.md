@@ -9,4 +9,5 @@ tags: ["post", "blog"]
 
 **Nombre:** Alejandro Romero Tortosa
 
-![Imagen de José Domingo](/static/josedom24.jpeg)
+![Imagen](/josedom24.jpeg)
+
